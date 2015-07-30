@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="281115609">
+    <data-source source="LOCAL" name="Oracle - XE@localhost" uuid="7f676e9b-7316-4a3b-b4de-eed2bb81527b">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//localhost:1521/XE</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://C:/Oracle client/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/derby.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Oracle client/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc5.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Oracle client/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc6.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Oracle client/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc6_g.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Oracle client/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc6dms.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
